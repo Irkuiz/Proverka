@@ -23,6 +23,10 @@ body{
     animation: kvadrat 0.5s infinite ease-in-out;
     border: 5px solid blue;
     border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
 }
 @keyframes kvadrat{
     0%{
